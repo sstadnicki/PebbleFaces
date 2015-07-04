@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sstadnicki@gmail.com",
+    "longName": "Neon Triangles",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Neon Triangles",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "5b1369cb-baee-47f6-9902-f0eb2ab12aa4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
